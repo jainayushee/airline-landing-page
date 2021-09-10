@@ -1,0 +1,21 @@
+.wrapper{
+    display:flex;
+    flex-direction: row;
+    height: 100vh;
+    flex-direction: column;
+  }
+  
+  
+  .wrapper app-header-two{
+    flex:1;
+  }
+  
+  
+  
+  .wrapper app-searchcard-two{
+    flex:9; 
+  }
+  
+  
+  
+  

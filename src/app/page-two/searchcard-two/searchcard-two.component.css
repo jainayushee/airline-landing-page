@@ -1,0 +1,28 @@
+.wrapper{
+  
+    width: 500px;
+    height:100%;
+    border: 1px #ccc solid;
+    padding:20px;
+    background-color: #fff;
+    background-color: rgba(245, 245, 245, 0.6);  
+  }
+  
+  .logo{
+    background-color: #707784;
+    width: 400px;
+    height:150px;
+  }
+  
+  
+  .centrebtn{
+    Display: flex;
+    Justify-content : center;
+    Align-items : center
+  }
+  
+  .color{
+    background-color:#123790;
+    color:white;
+   
+  }
