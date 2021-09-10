@@ -7,6 +7,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Description 
-This is a landing page for an online airline reservation system.
+Landing pages for an online airline reservation system.
+The landing page views can be switched by changing the selectors (page-one / page-two) in the html app component.
 
-<img width="660" alt="LandingPage1" src="https://user-images.githubusercontent.com/43040456/132862412-38ddc1dd-2e7a-4dfe-817a-4df2d2343c47.PNG">
+<img width="560" alt="LandingPage1" src="https://user-images.githubusercontent.com/43040456/132862412-38ddc1dd-2e7a-4dfe-817a-4df2d2343c47.PNG">
+<img width="560" alt="LandingPage" src="https://user-images.githubusercontent.com/43040456/132865275-2548c6db-15f9-4bae-ad65-27239a5127da.PNG">
+
